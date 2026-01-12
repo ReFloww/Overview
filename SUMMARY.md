@@ -47,7 +47,7 @@
   * [OJK Licensing](compliance/ojk-licensing.md)
   * [KYC/AML Compliance](compliance/kyc-aml.md)
 * [Risk Disclosures](compliance/risk-disclosures.md)
-* [Jurisdictional Limitations](compliance/jurisdictions.md)
+* [Jurisdictional Limitations](partnership-and-compliance/jurisdictional-limitations.md)
 * [Security & Audits](compliance/security-audits.md)
 
 ## Technical Architecture
@@ -108,7 +108,7 @@
 
 ## Integration Guide
 
-* [Integration Overview](integration/overview.md)
+* [Integration Overview](integration-guide/integration-overview.md)
 * [API Integration](integration/api-integration.md)
 * [Webhook Integration](integration/webhooks.md)
 * [White-Label Solutions](integration/white-label.md)
@@ -133,8 +133,6 @@
 * [Technology Partners](acknowledgements/technology-partners.md)
 * [Open Source Credits](acknowledgements/open-source.md)
 * [Community Contributors](acknowledgements/contributors.md)
-
----
 
 ## Legal
 
