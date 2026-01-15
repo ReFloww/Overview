@@ -40,6 +40,7 @@ export const config = createConfig({
 | Mock USDT | `0xe01c5464816a544d4d0d6a336032578bd4629F10` |
 | Factory P2P | `0xa411df45e20d266500363c76ecbf0b8e483fd408` |
 | Factory Manager | `0x4d1a3d97109b2fb7e81023cf0a97aea4277d7235` |
+| Swap | `0x5fd6dfd2a3e4fafe82ee6e9d7a228f2c395ef05e` |
 
 ## Basic Operations
 

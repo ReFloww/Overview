@@ -47,6 +47,16 @@ Reference for all deployed smart contracts on ReFlow.
 
 **Explorer**: [View on Mantlescan](https://sepolia.mantlescan.xyz/address/0x4d1a3d97109b2fb7e81023cf0a97aea4277d7235)
 
+### Swap
+
+| Property | Value |
+|----------|-------|
+| **Address** | `0x5fd6dfd2a3e4fafe82ee6e9d7a228f2c395ef05e` |
+| **Type** | Swap Contract |
+| **Purpose** | Token swap functionality |
+
+**Explorer**: [View on Mantlescan](https://sepolia.mantlescan.xyz/address/0x5fd6dfd2a3e4fafe82ee6e9d7a228f2c395ef05e)
+
 ## Contract Verification
 
 ### Verifying Contracts
